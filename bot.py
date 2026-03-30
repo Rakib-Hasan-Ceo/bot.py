@@ -9,7 +9,7 @@ import os
 from flask import Flask
 
 # আপনার টেলিগ্রাম বটের টোকেন এখানে দিন
-API_TOKEN = 'এখানে_আপনার_টোকেন_দিন'
+API_TOKEN = '8657791091:AAFKku0PmV9KTwdSWsf17DW--6zSqf05s7s'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Render এর জন্য ডামি ওয়েব সার্ভার
